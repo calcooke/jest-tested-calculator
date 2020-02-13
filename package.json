@@ -1,0 +1,23 @@
+{
+  "name": "jest-tested-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziggyzulu/jest-tested-calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ziggyzulu/jest-tested-calculator/issues"
+  },
+  "homepage": "https://github.com/ziggyzulu/jest-tested-calculator#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
