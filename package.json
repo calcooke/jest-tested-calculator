@@ -1,7 +1,6 @@
 {
   "name": "jest-tested-calculator",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest"
@@ -19,5 +18,7 @@
   "homepage": "https://github.com/ziggyzulu/jest-tested-calculator#readme",
   "devDependencies": {
     "jest": "^25.1.0"
-  }
+  },
+  "dependencies": {},
+  "description": ""
 }
